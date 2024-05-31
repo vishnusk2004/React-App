@@ -16,17 +16,37 @@ Welcome to the Beginner React Projects repository! This collection is designed f
 
 This repository contains beginner-level React projects that help you get started with the fundamentals of React development.
 
+
 ## Projects
 
 ### Color Picker App
-
 A simple color picker app that allows users to select colors and see their hex values. This project helps you understand the basics of state management and event handling in React.
 
-- **Description**: A user-friendly color picker where users can choose a color from a palette and see its hexadecimal value displayed.
-- **Technologies**: React, CSS
-- **Features**:
-  - Interactive color selection
-  - Real-time display of hex color values
+**Description**: A user-friendly color picker where users can choose a color from a palette and see its hexadecimal value displayed.
+
+**Technologies**: React, CSS
+
+**Features**:
+- Interactive color selection
+- Real-time display of hex color values
+
+---
+
+### To-Do List App
+A basic to-do list app that allows users to add, delete, move up, and move down tasks. This project helps you understand the fundamentals of list rendering, state management, and event handling in React.
+
+**Description**: A simple to-do list application where users can manage tasks by adding new tasks, deleting tasks, and rearranging the order of tasks.
+
+**Technologies**: React, CSS
+
+**Features**:
+- Add new tasks
+- Delete tasks
+- Move tasks up
+- Move tasks down
+- Real-time task list updates
+
+---
 
 ## Getting Started
 
