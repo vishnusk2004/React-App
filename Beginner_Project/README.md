@@ -9,7 +9,6 @@ Welcome to the Beginner React Projects repository! This collection is designed f
   - [Color Picker App](#color-picker-app)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
