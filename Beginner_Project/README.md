@@ -7,6 +7,8 @@ Welcome to the Beginner React Projects repository! This collection is designed f
 - [Introduction](#introduction)
 - [Projects](#projects)
   - [Color Picker App](#color-picker-app)
+  - [To Do List](#to-do-list-app)
+  - [Digital Clock](#digital-clock-app)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [Contact](#contact)
@@ -31,7 +33,7 @@ A simple color picker app that allows users to select colors and see their hex v
 
 ---
 
-### To-Do List App
+### To Do List App
 A basic to-do list app that allows users to add, delete, move up, and move down tasks. This project helps you understand the fundamentals of list rendering, state management, and event handling in React.
 
 **Description**: A simple to-do list application where users can manage tasks by adding new tasks, deleting tasks, and rearranging the order of tasks.
@@ -44,6 +46,20 @@ A basic to-do list app that allows users to add, delete, move up, and move down 
 - Move tasks up
 - Move tasks down
 - Real-time task list updates
+
+---
+
+### Digital Clock App
+A digital clock app that displays the current time in a user-friendly format. This project helps you understand how to work with real-time data and React hooks for updating the UI.
+
+**Description**: A digital clock application that displays the current time, updating every second to show real-time changes.
+
+**Technologies**: React, CSS
+
+**Features**:
+- Real-time clock display
+- Updates every second
+- Displays hours, minutes, and seconds
 
 ---
 
